@@ -1,0 +1,12 @@
+199307095332
+199309
+6CE873B6CCD7
+1CFA68F6D88F
+C83A35197238
+#include <stdio.h>
+int main()
+{
+	printf("Hello World!");
+	getchar();
+	return 0;
+}
